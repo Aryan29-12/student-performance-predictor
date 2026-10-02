@@ -1,0 +1,7 @@
+Django==6.0.5
+djangorestframework==3.18.1
+django-filter==26.1
+psycopg==3.3.6
+pandas==3.0.2
+scikit-learn==1.8.0
+joblib==1.5.3
